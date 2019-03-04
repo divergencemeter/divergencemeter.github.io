@@ -1,0 +1,23 @@
+/* savi2 */
+
+.body {
+  align-items: center;
+  background-color: black;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.root {
+  height: 384px;
+  width: 1068px;
+}
+
+.pre-load {
+  display: none;
+}
+
+.digit {
+  display: inline-block;
+}
